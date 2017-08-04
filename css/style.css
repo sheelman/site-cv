@@ -80,3 +80,13 @@ section .heading{
     color: #d82c2e;
     text-transform: uppercase;
 }
+
+#skills .progress{
+    height: 100%;
+    margin: 30px 20px;
+    backface-visibility: #ddd;
+}
+
+#skylls .progress-bar{
+    background: #d82c2e;
+}
